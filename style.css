@@ -2,3 +2,9 @@ h1{
     background: red;
     color: whitesmoke;
 }
+
+p{
+    background: lightgray;
+    color: black;
+    padding: 20px;
+}
